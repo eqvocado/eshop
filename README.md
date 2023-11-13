@@ -1,2 +1,2 @@
 # eshop
-lokalz
+lokalz: an online shop for streetwear fashion
